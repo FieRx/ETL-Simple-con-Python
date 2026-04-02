@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,location,capacity_units,current_occupancy,manager_name
+1,Depósito 1,Buenos Aires,51665,75,Sofía Ramírez
+2,Depósito 2,Córdoba,87859,48,Diego Fernández
+3,Depósito 3,Rosario,63393,94,Roberto Sánchez
+4,Depósito 4,Mendoza,11505,51,Laura Torres
+5,Depósito 5,La Plata,57964,73,Roberto Sánchez
