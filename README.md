@@ -5,7 +5,7 @@ Pipeline ETL que procesa datos de e-commerce para generar métricas de ventas.
 
 ## Cómo correr
 ```bash
-pip install pandas pyarrow
+remember to edit the path variable for your current project path
 python etl.py
 ```
 
