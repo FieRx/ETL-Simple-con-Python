@@ -6,7 +6,7 @@ import pyarrow as pa
 pd.set_option('display.max_columns', None)
 
 # Path a la carpeta con la data
-path = "C:/Users/FieR/Documents/Proyecto 1/mi-primer-elt/data/"
+path = "YOURPATH/mi-primer-elt/data/"
 
 
 """FUNCIONES PARA AUTOMATIZAR EL PROCESO"""
